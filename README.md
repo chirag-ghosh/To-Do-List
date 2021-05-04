@@ -3,7 +3,6 @@
 A very basic experimental To-Do-List
 
 
-This is not a project. 
 
 This is an app I made for learning Android. 
 
